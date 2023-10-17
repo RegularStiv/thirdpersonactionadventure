@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/repos/thirdpersonactionadventure/thirdpersonactionadv/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"D:/repos/thirdpersonactionadventure/thirdpersonactionadv/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/repos/thirdpersonactionadventure/thirdpersonactionadv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/16/UUA43ZEYYDK6PLF5Q5KMV3.uasset",
+				"D:/repos/thirdpersonactionadventure/thirdpersonactionadv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/HY/UG7EELLBGXI2ESG0F8U83Z.uasset",
+				"D:/repos/thirdpersonactionadventure/thirdpersonactionadv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/G8/HCS2YUD7JST2K9GVF7S45P.uasset"
 			]
 		}
 	]
